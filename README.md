@@ -15,6 +15,6 @@ There are 9 projects within this repository which are as follows:
 * Lab#6: Python, MongoDB 
 * Lab#7: Python, Elasticsearch, Kibana
 * Lab#8: Python, Redis
-* Lab#9: Python, ApacheDruid, Kafka
+* Lab#9: Python, Apache Druid, Apache Kafka
 
 	
